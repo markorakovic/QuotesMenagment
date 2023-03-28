@@ -1,7 +1,5 @@
 package http;
 
-import http.HttpMethod;
-
 public class Request {
 
     private final HttpMethod httpMethod;
