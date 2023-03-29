@@ -12,7 +12,7 @@ import java.util.Random;
 public class AuxServer {
     private static final int PORT = 9000;
     private static final String QUOTE_1 = "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you. — Steve Jobs";
-    private static final String QUOTE_2 = "Success is getting what you want, happiness is wanting what you get. ―W. P. Kinsella";
+    private static final String QUOTE_2 = "Success is finishing your homework. - Marko Rakovic";
     private static final String QUOTE_3 = "Believe you can and you're halfway there. - Theodore Roosevelt";
     private static final String QUOTE_4 = "We cannot solve problems with the kind of thinking we employed when we came up with them. — Albert Einstein";
     private static final List<String> quotes = new ArrayList<>();

@@ -6,7 +6,6 @@ import http.Request;
 import http.response.HtmlResponse;
 import http.response.RedirectResponse;
 import http.response.Response;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
