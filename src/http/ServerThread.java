@@ -51,6 +51,7 @@ public class ServerThread implements Runnable {
 
             if (method.equals(HttpMethod.POST.toString())) {
                 // TODO: Ako je request method POST, procitaj telo zahteva (parametre)
+
                 StringBuilder body = new StringBuilder();
                 char[] buffer = new char[1024];
                 int bytesRead = -1;
